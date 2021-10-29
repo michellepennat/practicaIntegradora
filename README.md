@@ -1,1 +1,1 @@
-# practicaIntegradora
+# Practica Integradora
